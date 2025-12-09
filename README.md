@@ -23,7 +23,7 @@ Program ini mengolah data JSON dari Spotify untuk menghasilkan _insight_:
 1.  **Clone Repository**
 
     ```bash
-    git clone https://github.com/anamaul/SpotifyWrapped
+    git clone https://github.com/anamaul/SpotifyWrapped.git
     cd SpotifyWrapped
     ```
 
