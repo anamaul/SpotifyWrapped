@@ -23,8 +23,8 @@ Program ini mengolah data JSON dari Spotify untuk menghasilkan _insight_:
 1.  **Clone Repository**
 
     ```bash
-    git clone [https://github.com/USERNAME_ANDA/spotify-analysis.git](https://github.com/USERNAME_ANDA/spotify-analysis.git)
-    cd spotify-analysis
+    git clone https://github.com/anamaul/SpotifyWrapped
+    cd SpotiyWrapped
     ```
 
 2.  **Install Library**
@@ -47,7 +47,7 @@ Program ini mengolah data JSON dari Spotify untuk menghasilkan _insight_:
 
 ## 🔒 Privasi
 
-Repository ini **tidak menyertakan** file dataset (`.json`) karena mengandung data pribadi (IP Address, Device Info). File `.gitignore` telah dikonfigurasi untuk mengabaikan file JSON.
+Repository ini **tidak menyertakan** file dataset (`.json`) karena mengandung data pribadi (IP Address, Device Info).
 
 ---
 
