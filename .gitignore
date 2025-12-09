@@ -1,0 +1,4 @@
+# Ignore data files
+*.json
+# Ignore IDE specific files
+__pycache__/
